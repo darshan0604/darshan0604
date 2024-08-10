@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on face recognition ai for attendance solution which i wanna make little bit different, learning AWS, Web project, learning Advance C language, Learning Java scrirpt for React.<br>I'm looking to collaborate on AI and Automation solutions for solving problems of boring stuffs.<br>I want to do help in development and i want help in social connections and my visibility to real world.<br>learning AWS, Web project, learning Advance C language, Learning Java scrirpt for React.<br>Ask me about anything logical things or i'm here to help in meaning things.<br>Fun fact is that i want to change the development process  and have to make things more easy with the help of ai
+I’m currently focused on developing a face recognition AI for an innovative attendance solution that stands out from the norm. Alongside this, I'm diving deep into AWS, web development, advanced C programming, and learning JavaScript for React.
+
+I'm eager to collaborate on AI and automation projects that solve mundane, repetitive tasks. My goal is to contribute to impactful development projects while also expanding my social connections and increasing my visibility in the tech community.
+
+If you're into logical problem-solving or meaningful discussions, feel free to reach out—I’m always here to help. Fun fact: I’m passionate about revolutionizing the development process, making it more efficient and accessible with the power of AI.
 
 
 ## 🌐 Socials:
