@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on face recognition ai for attendance solution which i wanna make little bit different, learning AWS, Web project, learning Advance C language, Learning Java scrirpt for React.<br>I'm looking to collaborate on AI and Automation solutions for solving problems of boring stuffs.<br>I want to do help in development and i want help in social connections and my visibility to real world.<br>learning AWS, Web project, learning Advance C language, Learning Java scrirpt for React.<br>Ask me about anything logical things or i'm here to help in meaning things.<br>Fun fact is that i want to change the development process  and have to make things more easy with the help of ai
+Enthusiastic developer pursuing an MCA. I have hands-on experience in workflow automation using Python, dynamic
+web development in PHP, and growing skills in Flutter for mobile apps. I am deeply curious about AI and machine
+learning, with a strong desire to contribute to smart tech solutions. I have been recognized for taking ownership and
+encouraging teamwork, from coordinating college teams to managing active learning communities.
 
 
 ## 🌐 Socials:
